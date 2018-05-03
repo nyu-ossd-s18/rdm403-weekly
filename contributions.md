@@ -14,3 +14,7 @@ Work in progress, will update shortly.
 | 10 | Course website | https://github.com/joannakl/cs480_s18/issues/25#issuecomment-379625974 | Comment regarding mislabeled issue. | Course website |
 | 11 | pyautogui | https://github.com/asweigart/pyautogui/issues/216#issuecomment-380226781 | Commented on a feature request issue that might have been caused by an error in documentation. | Other
 | 11 | pyautogui | https://github.com/asweigart/pyautogui/issues/219 | Politely told someone their feature request seems to already exist. | Other
+| 13 | Qutebrowser - Wikipedia | https://en.wikipedia.org/w/index.php?title=Qutebrowser&diff=prev&oldid=838042161 | Updated the pronunciation. | Wikipedia |
+| 13 | List of Indian Dishes - Wikipedia | https://en.wikipedia.org/w/index.php?title=List_of_Indian_dishes&diff=prev&oldid=838748113 | Added a missing hyperlink. | Wikipedia |
+| 13 | List of Indian Sweets and Desserts - Wikipedia | https://en.wikipedia.org/w/index.php?title=List_of_Indian_sweets_and_desserts&diff=prev&oldid=838755629 | Added in missing hyperlinks. | Wikipedia |
+| 13 | List of Indian Dishes - Wikipedia | https://en.wikipedia.org/w/index.php?title=List_of_Indian_dishes&diff=prev&oldid=838750829 | Added a list to the "See Also" section. | Wikipedia |
