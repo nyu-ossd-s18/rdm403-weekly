@@ -1,5 +1,4 @@
 # Contributions
-Work in progress, will update shortly.
 
 | Week | Project Name/Website | Link | Description | Type |
 |------|----------------------|------|-------------|------|
@@ -18,3 +17,9 @@ Work in progress, will update shortly.
 | 13 | List of Indian Dishes - Wikipedia | https://en.wikipedia.org/w/index.php?title=List_of_Indian_dishes&diff=prev&oldid=838748113 | Added a missing hyperlink. | Wikipedia |
 | 13 | List of Indian Sweets and Desserts - Wikipedia | https://en.wikipedia.org/w/index.php?title=List_of_Indian_sweets_and_desserts&diff=prev&oldid=838755629 | Added in missing hyperlinks. | Wikipedia |
 | 13 | List of Indian Dishes - Wikipedia | https://en.wikipedia.org/w/index.php?title=List_of_Indian_dishes&diff=prev&oldid=838750829 | Added a list to the "See Also" section. | Wikipedia |
+| 14 | OpenStreetMap | https://www.openstreetmap.org/changeset/58934617#map=18/40.73309/-73.86304 | Added a store to Rego Center Mall. | Other |
+| 14 | OpenStreetMap | https://www.openstreetmap.org/changeset/58931484#map=18/40.73284/-73.86205| Added a store to Rego Center Mall. | Other |
+| 14 | OpenStreetMap | https://www.openstreetmap.org/changeset/58931362#map=19/40.73237/-73.85983 | Updated some addresses in Rego Park. | Other |
+| 14 | OpenStreetMap | https://www.openstreetmap.org/changeset/58934981#map=19/40.73182/-73.86550 | Updated information for a building in Rego Park. | Other |
+| 14 | OpenStreetMap | https://www.openstreetmap.org/changeset/58934933#map=19/40.73334/-73.86293| Added a store to Rego Center Mall. | Other |
+| 14 | OpenStreetMap | https://www.openstreetmap.org/changeset/58931169#map=19/40.73113/-73.86019 | Added a chinese restaurant to Rego Park. | Other |
